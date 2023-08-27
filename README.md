@@ -9,7 +9,7 @@ The courses in this program cover a wide range of technologies, including Cloud 
 
 Upon completion of all the courses in the program, including the capstone project, you will have developed multiple applications using both front-end and back-end technologies. Additionally, you will have deployed these applications on a cloud platform using Cloud Native methodologies.
 
-## Hands-On Full-Stack Projects
+## Hands-On Full-Stack Developer Projects
 
 In this Professional Certificate program, you will embark on a journey of developing a diverse portfolio comprising hands-on projects using a wide range of popular technologies and programming languages in Full Stack Cloud Application Development.
 
