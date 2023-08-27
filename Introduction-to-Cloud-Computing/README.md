@@ -1,18 +1,66 @@
-# IBM Full Stack Software Developer Professional Certificate
-## About this Professional Certificate
+# IBM Cloud Object Storage Project
 
-This Professional Certificate provides you with the necessary skills and technical knowledge to start your career as a Full-Stack Software Developer. With guidance from IBM experts, you will learn to create cloud-based applications and gain hands-on experience with the underlying technologies. The program consists of 10 courses that offer comprehensive instruction, practical exercises, and projects to enhance your skills and build your portfolio.
+Welcome to the IBM Cloud Object Storage project! This project aims to guide you through creating an Object Storage instance on the IBM Cloud platform, setting up a bucket to store data, adding objects to the bucket, and sharing those objects.
 
-You don't need any prior programming experience or background in cloud technology to begin this program. You will acquire the tools and technologies used by successful software developers to build, deploy, test, run, and manage Full Stack Cloud Native applications. This will equip you with practical skills to enter a highly sought-after field.
+## Project Overview
 
-The courses in this program cover a wide range of technologies, including Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more.
+In this project, you will learn how to:
+- Create an IBM Cloud Object Storage instance
+- Set up a bucket to organize and store your data
+- Add objects to the bucket, such as files and documents
+- Share objects stored in the bucket using access policies
 
-Upon completion of all the courses in the program, including the capstone project, you will have developed multiple applications using both front-end and back-end technologies. Additionally, you will have deployed these applications on a cloud platform using Cloud Native methodologies.
+By the end of this project, you will have hands-on experience with IBM Cloud Object Storage and its features.
 
-## Hands-On Full-Stack Projects
+## Getting Started
 
-In this Professional Certificate program, you will embark on a journey of developing a diverse portfolio comprising hands-on projects using a wide range of popular technologies and programming languages in Full Stack Cloud Application Development.
+To get started, make sure you have an IBM Cloud account. If you don't have one, you can sign up [here](https://cloud.ibm.com/registration).
 
-Throughout the 10 comprehensive courses, you will undertake various project challenges. These include tasks such as publishing HTML pages on Cloud Object Storage, creating an interest rate calculator utilizing HTML, CSS, and JavaScript. You will also deploy an AI program on Cloud Foundry, employing DevOps principles and CI/CD toolchains, and utilize a NoSQL database. Additionally, you will build a Node.js and React application, containerize a guestbook app with Docker, deploy it with Kubernetes, and manage it with OpenShift. Furthermore, you will develop a Python app packaged as a package, construct an application powered by a Relational Database Management System (RDBMS) using Django ORM and Bootstrap, and create an application using Microservices and Serverless architecture. Finally, you will culminate your learning journey by completing a Capstone Project that brings together several technologies into a single, scalable Cloud Native Full Stack application.
+## Project Steps
 
-To showcase your acquired skills and expertise, you will publish these projects through your GitHub repository. This will not only enable you to share your accomplishments with your peers but also present your capabilities to prospective employers, demonstrating your readiness to excel in the field of Full Stack Cloud Application Development.
+Follow these steps to complete the project:
+
+1. **Create an Instance of IBM Cloud Object Storage:**
+   - Log in to your IBM Cloud account and navigate to the [IBM Cloud Catalog](https://cloud.ibm.com/catalog).
+   - Search for "Object Storage" and select the Lite plan.
+   - Provide a name for your instance, accept the default resource group, and create the instance.
+
+2. **Create a Bucket to Store Your Data:**
+   - In the instance details, click on "Create bucket" to set up a storage container for your data.
+   - Choose a name for the bucket and review the settings.
+   - Confirm the creation of the bucket.
+
+3. **Add Objects to Your Bucket:**
+   - Access your bucket details and start uploading objects.
+   - You can either drag and drop files or use the upload feature.
+   - A variety of file types can be added, such as documents, images, and more.
+
+4. **Share Objects in Your Bucket:**
+   - Define access policies for your bucket to control who can access the stored objects.
+   - You can set specific permissions for users and groups or even make certain objects public.
+   - Obtain the public URL of shared objects for easy access.
+
+## Authors
+
+This project was created by:
+- Priya Kapoor
+- Lavanya TS
+- Rav Ahuja
+
+## Changelog
+
+- 2023-06-27: Version 2.4 - Updated instructions and screenshots for the latest IBM Cloud UI
+- 2023-01-20: Version 2.3 - Updated screenshots and content of the lab instructions
+- ...
+
+## Acknowledgments
+
+Special thanks to Upkar Lidder and other contributors for their contributions to this project.
+
+## License
+
+© IBM Corporation 2023. All rights reserved.
+
+---
+
+**Note:** This project is based on a hands-on lab provided by [IBM Cloud](https://cloud.ibm.com). The lab content and instructions have been adapted for the purpose of this project.
