@@ -19,5 +19,5 @@ To showcase your acquired skills and expertise, you will publish these projects 
 
 ## Table of contents
 
-- [course 1:]() Introduction to Cloud Computing
-- [course 2:]() Introduction to Web Development with HTML, CSS, JavaScript
+- [Course 1:]() Introduction to Cloud Computing
+- [Course 2:]() Introduction to Web Development with HTML, CSS, JavaScript
